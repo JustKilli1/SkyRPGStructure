@@ -1,0 +1,11 @@
+name: SkyRPGStructure
+version: '${project.version}'
+main: net.marscraft.skyrpgstructure.base.SkyRPGStructure
+api-version: 1.19
+authors: [ JustKilli ]
+description: SkyRPG Basic Structure
+website: marscraft.net
+
+commands:
+  test:
+    description: Test Command
